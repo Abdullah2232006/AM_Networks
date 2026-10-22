@@ -6,7 +6,7 @@
 
 # Sprint 1 - Build HQ - Tasks
 
-- [ ] Setup FortiGate
+- [ x ] Setup FortiGate
 - [ ] Setup VLANs
 - [ ] Add switches
 - [ ] Enable trunk and access modes on switches

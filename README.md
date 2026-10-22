@@ -31,6 +31,10 @@ Connecting a corporate headquarters (HQ) to a regional branch office across an u
 
 ![Goal Terminology](media/goalTerminology.png)
 
+# Current Topology
+
+![Goal Terminology](media/currentTopology.png)
+
 # Tools used
 
 - VMWare
