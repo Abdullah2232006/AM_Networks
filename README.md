@@ -29,7 +29,7 @@ Connecting a corporate headquarters (HQ) to a regional branch office across an u
 
 # Goal Terminology
 
-![Goal Terminology](media/goalTerminology.png)
+![Goal Terminology](media/goalToplogy.png)
 
 # Current Topology
 

@@ -10,7 +10,7 @@
 
 # Current Topology
 
-![Goal Terminology](media/currentTopology.png)
+![Current Terminology](media/currentTopology.png)
 
 # IP Mapping
 
