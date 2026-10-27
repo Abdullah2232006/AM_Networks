@@ -1,10 +1,10 @@
-# What is this AM Networks
+# About AM Networks
 
-AM Networks is a mid-sized enterprise that operates out of two sites (HQ, Branch), they have consulted me to design their network topology and to implement systems that ensures confidentiality, integrity and availability of their data and systems
+AM Networks is a mid-sized enterprise operating across multiple sites. The company requires a secure network topology and supporting systems that protect the confidentiality, integrity, and availability of its data and services.
 
 # Goals of the project
 
-Connecting a corporate headquarters (HQ) to a regional branch office across an untrusted public medium via an IPsec Site-to-Site VPN tunnel.
+This project provides hands-on experience in designing and implementing secure enterprise networks, including network segmentation, inter-site connectivity, and security controls.
 
 # Project Requirements
 
@@ -27,7 +27,7 @@ Connecting a corporate headquarters (HQ) to a regional branch office across an u
 - **Testing, Verification, & Validation Matrix**: Detailed test cases demonstrating successful segregation, policy enforcement, encrypted tunnel establishment, and unauthorized traffic drops.
 - **As-Built Topology Diagram**: Detailed visual schematic illustrating Layer 2 domains, Layer 3 gateways, interface numbering, and tunnel termination points.
 
-# Goal Terminology
+# Goal Topology
 
 ![Goal Terminology](media/goalTopology.png)
 
