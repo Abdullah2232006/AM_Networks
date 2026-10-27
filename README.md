@@ -1,6 +1,6 @@
-# What is this Qurtoba Networks
+# What is this AM Networks
 
-Qurtoba Networks is a fictional mid-sized enterprise that operates out of two sites (HQ, Branch), they have consulted me to design their network topology and to implement systems that ensures confidentiality, integrity and availability of their data and systems
+AM Networks is a mid-sized enterprise that operates out of two sites (HQ, Branch), they have consulted me to design their network topology and to implement systems that ensures confidentiality, integrity and availability of their data and systems
 
 # Goals of the project
 
@@ -29,7 +29,7 @@ Connecting a corporate headquarters (HQ) to a regional branch office across an u
 
 # Goal Terminology
 
-![Goal Terminology](media/goalToplogy.png)
+![Goal Terminology](media/goalTopology.png)
 
 # Current Topology
 
